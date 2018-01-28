@@ -33,6 +33,7 @@
 *.out
 *.app
 Win32/
+GeneratedFiles/
 
 # =========================
 # Operating System Files
