@@ -32,7 +32,7 @@
 *.exe
 *.out
 *.app
-Win32
+Win32/
 
 # =========================
 # Operating System Files
