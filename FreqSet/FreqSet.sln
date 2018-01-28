@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FreqSet", "FreqSet.vcproj", "{A13BC172-E5D8-460A-87E0-023C9827A107}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NetShowLib", "..\NetShowLib\NetShowLib.vcproj", "{39FDB4D2-A4F5-434E-8911-3820A303A0C2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestNetShow", "..\TestNetShow\TestNetShow.vcproj", "{949B8BA7-BCD7-47FE-B6DE-141B3F8EBFB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +11,14 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A13BC172-E5D8-460A-87E0-023C9827A107}.Debug|Win32.ActiveCfg = Debug|Win32
-		{A13BC172-E5D8-460A-87E0-023C9827A107}.Debug|Win32.Build.0 = Debug|Win32
-		{A13BC172-E5D8-460A-87E0-023C9827A107}.Release|Win32.ActiveCfg = Release|Win32
-		{A13BC172-E5D8-460A-87E0-023C9827A107}.Release|Win32.Build.0 = Release|Win32
+		{39FDB4D2-A4F5-434E-8911-3820A303A0C2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{39FDB4D2-A4F5-434E-8911-3820A303A0C2}.Debug|Win32.Build.0 = Debug|Win32
+		{39FDB4D2-A4F5-434E-8911-3820A303A0C2}.Release|Win32.ActiveCfg = Release|Win32
+		{39FDB4D2-A4F5-434E-8911-3820A303A0C2}.Release|Win32.Build.0 = Release|Win32
+		{949B8BA7-BCD7-47FE-B6DE-141B3F8EBFB5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{949B8BA7-BCD7-47FE-B6DE-141B3F8EBFB5}.Debug|Win32.Build.0 = Debug|Win32
+		{949B8BA7-BCD7-47FE-B6DE-141B3F8EBFB5}.Release|Win32.ActiveCfg = Release|Win32
+		{949B8BA7-BCD7-47FE-B6DE-141B3F8EBFB5}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
