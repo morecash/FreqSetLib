@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 <RCC>
     <qresource prefix="TestNetShow">
     </qresource>
 </RCC>
+=======
+<RCC>
+    <qresource prefix="TestNetShow">
+    </qresource>
+</RCC>
+>>>>>>> origin/master
